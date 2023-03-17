@@ -22,3 +22,13 @@ _I created a webpage for myself to have a portfolio for future employers to look
 * _Locate "github_pages"_
 * _Click link and it will take you to another page_
 * _Finally, click "View deployment" to view in webpage_
+
+## Known Bugs
+
+* _No known issues/bugs_
+
+# License
+
+_Please contact me at josephwilfong91@gmail.com if you have any questions, ideas, or concerns._
+
+Copyright (c) _2023_ _Joseph Wilfong_
