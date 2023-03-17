@@ -2,9 +2,11 @@ body {
   background-image: linear-gradient( to right, rgb(228, 180, 92), rgb(225, 99, 225));
 }
 
+.header {
+  font-size: 75px;
+}
 h1 {
   text-align: center;
-  font-size: 55px;
 }
 
 h3 {
@@ -19,13 +21,6 @@ h3 {
   height: 200px;
 }
 
-img {
-  display: flex;
-  justify-content: center;
-  width: auto;
-  height: 100%;
-}
-
 .list {
   font-style: italic;
 }
@@ -36,7 +31,20 @@ span {
 
 }
 
-p {
+.aboutme {
   text-align: center;
 }
 
+.myParagraph {
+  display: inline-block;
+  text-align: left;
+}
+
+.interests {
+  text-align: center;
+}
+
+.myOl {
+  display: inline-block;
+  text-align: left;
+}
