@@ -3,7 +3,7 @@ body {
 }
 
 .header {
-  font-size: 75px;
+  font-size: 55px;
 }
 h1 {
   text-align: center;
@@ -23,6 +23,7 @@ h3 {
 
 .list {
   font-style: italic;
+  text-align: center;
 }
 
 span {
@@ -36,15 +37,26 @@ span {
 }
 
 .myParagraph {
-  display: inline-block;
-  text-align: left;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35em;
 }
 
 .interests {
   text-align: center;
 }
 
-.myOl {
+.hobbies {
+  text-align: center;
+}
+
+ol {
+  display: inline-block;
+  text-align: left;
+}
+
+ul {
   display: inline-block;
   text-align: left;
 }
