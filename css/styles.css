@@ -1,15 +1,13 @@
-#grad {
-  background-image: linear-gradient(to right, blue, purple);
+body {
+  background-image: linear-gradient( to right, rgb(228, 180, 92), rgb(225, 99, 225));
 }
 
 h1 {
   text-align: center;
-  color: aliceblue;
 }
 
 h3 {
   text-align: center;
-  color: aliceblue;
 }
 
 
@@ -25,4 +23,8 @@ img {
   justify-content: center;
   width: auto;
   height: 100%;
+}
+
+.list {
+  font-style: italic;
 }
