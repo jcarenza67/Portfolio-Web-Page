@@ -79,6 +79,30 @@ ul {
   display: inline-block;
   text-align: left;
 }
-a {
+.list a {
   color: aliceblue;
+}
+
+.sidenav {
+  height: 100%;
+  width: 160px;
+  position: fixed; 
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden; 
+  padding-top: 20px;
+  z-index: 101;
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  font-size: 25px;
+  color: #f5f1f1;
+  display: flex;
+  margin-top: ;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
 }
