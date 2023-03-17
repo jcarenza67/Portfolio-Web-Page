@@ -1,16 +1,24 @@
 body {
   background-image: linear-gradient( to right, rgb(228, 180, 92), rgb(225, 99, 225));
+
 }
 
 .header {
+  display: flex;
+  justify-content: center;
   font-size: 55px;
-  background-color: aliceblue;
-  padding-top: .5px;
-  padding-bottom: .5px;
+  margin-top: -8px;
+  margin-left: -20px;
+  margin-right: -30px;
+  background-image: url(https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif);
+  position: sticky;
+  top: 0;
+  z-index: 100;
 }
 
 h1 {
   text-align: center;
+  color: aliceblue;
 }
 
 h2 {
