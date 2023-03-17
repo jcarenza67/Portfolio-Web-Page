@@ -31,5 +31,15 @@ img {
 }
 
 span {
+  color: aliceblue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 
+}
+
+p {
+  text-align: center;
+}
+
+.about {
+  display: flex;
 }
