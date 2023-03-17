@@ -1,0 +1,28 @@
+#grad {
+  background-image: linear-gradient(to right, blue, purple);
+}
+
+h1 {
+  text-align: center;
+  color: aliceblue;
+}
+
+h3 {
+  text-align: center;
+  color: aliceblue;
+}
+
+
+.box {
+  display: flex;
+  justify-content: center;
+  width: auto;
+  height: 200px;
+}
+
+img {
+  display: flex;
+  justify-content: center;
+  width: auto;
+  height: 100%;
+}
